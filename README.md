@@ -10,7 +10,7 @@ It is Flutter mobile application development project for shares trading and inve
 -Подсчитывается общая стоимость портфеля: Баланс = ₽_акции * кол-во + $_акции * 57.5 * кол-во. <br>
 <br>
 Экран Портфель: <br>
-![image](/uploads/31cb3455187a22425264b17664f5c05f/image.png)
+![image](https://user-images.githubusercontent.com/57821178/175441289-874bcc4d-66dd-4729-9d9e-f679af58b0e1.png)
 <br>
 Экран Акции: <br>
-![image](/uploads/d6d99e9627a638f6a5702641112a90b1/image.png)
+![image](https://user-images.githubusercontent.com/57821178/175441271-427077c7-7233-4b0b-8b29-42079f36a560.png)
